@@ -28,7 +28,8 @@ SongGeneration.py - Creates new tunes based on selected parameters.
 	When prompted how long you would like the section to be in notes, type a number (50 is encouraged)
 	When prompted for how far from starting pitch you want to go, type any number (I choose 7 to 10 usually)
 		51 will ensure all notes are available for your song, but it may wander all over the place
-	When prompted how many song sections you'd like, 2 is the usual number. This is how many different parts 		there will be
+	When prompted how many song sections you'd like, 2 is the usual number. This is how many different parts 		
+ 		there will be
 	When prompted with how many times to repeat each section, 2 is the usual number. This is how many times
 		each unique section will be repeated
 	When prompted for bowing method, this will apply to the MIDI file. Press 1 for normal whole notes, or 2
@@ -40,16 +41,16 @@ SongGeneration.py - Creates new tunes based on selected parameters.
 
 
 Folder Breakdown
-	Aggregate Graph Visualizations - Complex Networks made in Gephi from the aggregate graph adjacency matrices
-	Generated Tunes - Where sheet music and midi files will be created from SongGeneration.py
-	irish_adjacency_matrices - Where the Irish adjacency matrices are created
-	irish_csv_files - Where Irish csv files made from Irish MIDI files are stored
-	irish_midi_files - Where downloaded Irish MIDI files are stored
-	old_time_adjacency_matrices - Where the Old-Time adjacency matrices are created
-	old_time_csv_files - Where Old-Time csv files made from Old-Time MIDI files are stored
-	old_time_midi_files - Where downloaded Old-Time MIDI files are stored
-	Project Code - Where code for the various parts of the project can be found, along with the master guide
-		to the song filenames for various folders, and aggregate graph adjacency matrices
-	R Studio Files for Predictions - Where R Studio code and the excel file the code analyzes can be found.
-		The spreadsheet in this folder is a combination of irishNetworkInsights.csv and 
-		oldTimeNetworkInsights.csv from the Project Code folder
+Aggregate Graph Visualizations - Complex Networks made in Gephi from the aggregate graph adjacency matrices
+Generated Tunes - Where sheet music and midi files will be created from SongGeneration.py
+irish_adjacency_matrices - Where the Irish adjacency matrices are created
+irish_csv_files - Where Irish csv files made from Irish MIDI files are stored
+irish_midi_files - Where downloaded Irish MIDI files are stored
+old_time_adjacency_matrices - Where the Old-Time adjacency matrices are created
+old_time_csv_files - Where Old-Time csv files made from Old-Time MIDI files are stored
+old_time_midi_files - Where downloaded Old-Time MIDI files are stored
+Project Code - Where code for the various parts of the project can be found, along with the master guide
+	to the song filenames for various folders, and aggregate graph adjacency matrices
+R Studio Files for Predictions - Where R Studio code and the excel file the code analyzes can be found.
+	The spreadsheet in this folder is a combination of irishNetworkInsights.csv and 
+	oldTimeNetworkInsights.csv from the Project Code folder
