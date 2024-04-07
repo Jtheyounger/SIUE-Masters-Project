@@ -5,10 +5,10 @@ Runnable code can be found in the folder "Project Code"
 For all code, be sure to change the Prefix variable located at the top of every program to the location
 you have put the folder. This variable can be found at...
 
-Line 13 for CSVtoGraph.py
-Line 13 for ProjectFunctions.py
-Line 17 for SongAnalysis.py
-Line 19 for SongGeneration.py
+	Line 13 for CSVtoGraph.py
+	Line 13 for ProjectFunctions.py
+	Line 17 for SongAnalysis.py
+	Line 19 for SongGeneration.py
 
 To use the generated MIDI feature in SongGeneration.py, be sure to install the library midiutil. If the library
 is not installed, just select "no" when asked if you want a MIDI file created
